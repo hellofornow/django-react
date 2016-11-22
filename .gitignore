@@ -1,3 +1,4 @@
 secret_key
 *.sqlite3
 .idea
+venv
